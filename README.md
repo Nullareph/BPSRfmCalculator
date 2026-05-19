@@ -1,4 +1,4 @@
-# BPSR Calculator — Blue Protocol Star Resonance フロストメイジ火力計算ツール
+# Blue Protocol Star Resonance フロストメイジ火力計算ツール
 
 フロストメイジ・**氷牙型**に特化した、スターレゾナンス向けの簡易火力計算ツールです。  
 装備・幻想因子・イマジン・スキル/アビリティ・潜在心相晶を入力し、**3分間ローテーションの期待DPS**を計算します。
